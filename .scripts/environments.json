@@ -1,5 +1,6 @@
 {
   "Dev": "Development",
+  "Qa": "Testing",
   "Stg": "Staging",
   "Prd": "Production"
 }
